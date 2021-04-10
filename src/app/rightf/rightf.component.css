@@ -1,0 +1,10 @@
+.topcornerr{
+    height:100px;
+    width: 300px;
+    position:absolute;
+    top:0;
+    right:0%;
+    background-color:red;
+    border: solid black;
+    text-align:center;
+   }
